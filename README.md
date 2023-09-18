@@ -1,7 +1,5 @@
 # Staycation - Aplikasi Pemesanan Penginapan
 
-![Staycation Logo](link_ke_gambar_logo.png)
-
 Staycation adalah aplikasi pemesanan penginapan berbasis web yang dibangun menggunakan Express.js dan EJS. Aplikasi ini memungkinkan pengguna untuk mencari dan memesan penginapan di berbagai destinasi liburan.
 
 ## Fitur Utama
@@ -24,5 +22,8 @@ Staycation adalah aplikasi pemesanan penginapan berbasis web yang dibangun mengg
 1. Clone repositori ini.
 
 ```bash
-git clone https://github.com/nama-akun-anda/staycation.git
+git clone https://github.com/syahrul35/BackEnd-Staycation.git
 cd staycation
+npm install
+npm start
+
